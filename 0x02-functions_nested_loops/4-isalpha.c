@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * _isalpha - Shows 1 if the input is a
  * letter Another cases, shows 0
  *
@@ -18,4 +18,4 @@ int _isalpha(int c)
 		return (0);
 	}
 	_putchar('\n');
-}
+i}
